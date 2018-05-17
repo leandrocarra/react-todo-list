@@ -6,7 +6,7 @@ Use this app to create simple lists and simple tasks that you have always forgot
 ![](example.gif)
 
 ## Development setup
-you will need to have mongodb installed on your computer, for this you can access this [link][https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/] and follow instructtions
+you will need to have mongodb installed on your computer, for this you can access this [https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/][link] and follow instructtions
 
 After installed
 ## Initialize mongo
@@ -43,7 +43,7 @@ npm install
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/leandrocarra/react-todo-list/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
