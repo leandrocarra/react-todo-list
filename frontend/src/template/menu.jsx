@@ -8,9 +8,6 @@ export default props => (
           <a className='navbar-brand' href='#'>
             <i className='fa fa-calendar-check-o'></i> TodoApp
           </a>
-        </div>
-
-        <div id='navbar' className='menu'>
           <ul className='nav'>
             <li><a href='#/todos'>Tasks</a></li>
             <li><a href='#/about'>About</a></li>
