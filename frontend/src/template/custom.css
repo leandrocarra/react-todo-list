@@ -6,3 +6,26 @@
   text-decoration: line-through;
   color: #777;
 }
+
+.tableActions {
+  width: 105px;
+}
+
+.todoForm {
+  padding-bottom: 60px;
+}
+
+.floatable {
+  position: fixed;
+  width: 100%;
+  margin-left: -15px;
+  margin-top: -40px;
+}
+
+.page-center{
+  padding-top: 40px;
+}
+
+.right-side {
+  float: right;
+}
