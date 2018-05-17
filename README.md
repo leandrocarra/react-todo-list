@@ -6,7 +6,7 @@ Use this app to create simple lists and simple tasks that you have always forgot
 ![](example.gif)
 
 ## Development setup
-you will need to have mongodb installed on your computer, for this you can access this [https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/][link] and follow instructtions
+you will need to have mongodb installed on your computer, for this you can access this [link](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/]) and follow instructtions
 
 After installed
 ## Initialize mongo
