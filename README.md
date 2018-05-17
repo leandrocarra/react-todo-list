@@ -11,7 +11,7 @@ you will need to have mongodb installed on your computer, for this you can acces
 After installed
 ## Initialize mongo
 ```sh
-  sudo mongod
+sudo mongod
 ```
 
 ## Back-end Installation 
@@ -19,24 +19,24 @@ After installed
 OS X & Linux:
 
 ```sh
-  cd backend
-  npm install
+cd backend
+npm install
 ```
 ## Front-end Installation
 ```sh
-  cd frontend
-  npm install
+cd frontend
+npm install
 ```
 
 ## Starting API
 ```node
-  cd backend
-  npm run dev
+cd backend
+npm run dev
 ```
 ## Starting frontend
 ```node
-  cd frontend
-  npm run dev
+cd frontend
+npm run dev
 ```
 
 
