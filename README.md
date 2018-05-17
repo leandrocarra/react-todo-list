@@ -19,13 +19,13 @@ After installed
 OS X & Linux:
 
 ```sh
-cd backend
-npm install
+  cd backend
+  npm install
 ```
 ## Front-end Installation
 ```sh
-cd frontend
-npm install
+  cd frontend
+  npm install
 ```
 
 ## Starting API
